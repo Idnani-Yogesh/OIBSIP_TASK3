@@ -1,0 +1,22 @@
+.mytable{
+    margin:15px 5% 0 5%;
+    display: flex;
+    
+        }
+
+.tasks{
+    width: 50%;
+    margin:0 10px 0 10px;
+}
+.inputs{
+margin: 20px;
+display: flex;
+align-items: center;
+align-content: flex-start;
+
+
+flex-direction: column;
+}
+.input-group{
+    width: 50%;
+}
